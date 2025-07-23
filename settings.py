@@ -13,26 +13,13 @@ BROWN = (139, 69, 19)
 DARK_GREEN = (0, 100, 0)
 
 # Tile settings
-TILE_SIZE = 50
-
-# Map data (1 = wall, 0 = grass)
-MAP = [
-    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],
-    [1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1],
-    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1],
-    [1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1],
-    [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1],
-    [1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1],
-    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],
-    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-]
+TILE_SIZE = 32
 
 # Asset Paths
-PLAYER_IMG = "/home/rhealavenza/vscode/rpggame/assets/player/base/human_m.png"
-ENEMY_IMG = "/home/rhealavenza/vscode/rpggame/assets/dc-mon/goblin.png"
-WALL_IMG = "/home/rhealavenza/vscode/rpggame/assets/dc-dngn/wall/brick_brown0.png"
-FLOOR_IMG = "/home/rhealavenza/vscode/rpggame/assets/dc-dngn/floor/dirt0.png"
+PLAYER_IMG = "assets/player/base/human_m.png"
+ENEMY_IMG = "assets/dc-mon/goblin.png"
+WALL_IMG = "assets/dc-dngn/wall/brick_brown0.png"
+FLOOR_IMG = "assets/dc-dngn/floor/dirt0.png"
 
 # Animation settings
 ANIMATION_SPEED = 100 # Milliseconds per frame
