@@ -23,15 +23,23 @@
     },
     {
       "id": 2,
-      "image": "dc-dngn/wall/brick_brown0.png"
+      "image": "FARM/Objects/House.png"
     },
     {
       "id": 3,
-      "image": "dc-dngn/dngn_closed_door.png"
+      "image": "FARM/Objects/Interior.png"
     },
     {
       "id": 4,
-      "image": "dc-dngn/crumbled_column.png"
+      "image": "VILLAGE_TOP_DOWN/GRASS TILE - NIGHT.png"
+    },
+    {
+      "id": 5,
+      "image": "VILLAGE_TOP_DOWN/WATER TILE - DAY.png"
+    },
+    {
+      "id": 6,
+      "image": "VILLAGE_TOP_DOWN/WATER TILE - NIGHT.png"
     }
   ]
 }
