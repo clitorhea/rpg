@@ -29,10 +29,10 @@ MAP = [
 ]
 
 # Asset Paths
-PLAYER_IMG = "/home/rhealavenza/vscode/rpggame/assets/player/base/human_m.png"
-ENEMY_IMG = "/home/rhealavenza/vscode/rpggame/assets/dc-mon/goblin.png"
-WALL_IMG = "/home/rhealavenza/vscode/rpggame/assets/dc-dngn/wall/brick_brown0.png"
-FLOOR_IMG = "/home/rhealavenza/vscode/rpggame/assets/dc-dngn/floor/dirt0.png"
+PLAYER_IMG = "assets/player/base/human_m.png"
+ENEMY_IMG = "assets/dc-mon/goblin.png"
+WALL_IMG = "assets/dc-dngn/wall/brick_brown0.png"
+FLOOR_IMG = "assets/dc-dngn/floor/dirt0.png"
 
 # Animation settings
 ANIMATION_SPEED = 100 # Milliseconds per frame
